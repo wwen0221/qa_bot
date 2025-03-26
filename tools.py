@@ -1,4 +1,3 @@
-
 from langchain.tools import tool
 from llama_index.core import load_index_from_storage, StorageContext
 from langchain_tavily import TavilySearch
