@@ -1,0 +1,79 @@
+Product: iPhone 15 Pro
+Description:
+Apple’s flagship smartphone for 2023, built with a titanium frame and powered by the A17 Pro chip. Features an advanced camera system with a 5x telephoto zoom (on the Pro Max model) and supports USB-C.
+
+Key Features:
+	•	A17 Pro chip
+	•	6.1-inch (Pro) / 6.7-inch (Pro Max) Super Retina XDR displays
+	•	ProMotion technology (120Hz refresh rate)
+	•	48MP main camera with improved low-light performance
+	•	USB-C port (replacing Lightning)
+	•	Action Button replacing the mute switch
+	•	Available in Natural Titanium, Blue Titanium, White Titanium, Black Titanium
+
+Release Date: September 2023
+Starting Price: $999 (Pro), $1,199 (Pro Max)
+
+Product: MacBook Pro (M3, M3 Pro, M3 Max — 2023 models)
+
+Description:
+Apple’s latest MacBook Pro lineup with the M3 family of chips, offering substantial performance improvements and better power efficiency. Available in 14-inch and 16-inch sizes.
+
+Key Features:
+	•	M3, M3 Pro, and M3 Max chips with up to 40-core GPU
+	•	Up to 128GB unified memory (with M3 Max)
+	•	Liquid Retina XDR display
+	•	ProMotion (120Hz refresh rate)
+	•	Up to 22 hours battery life
+	•	Ports: SDXC card slot, HDMI, MagSafe 3, Thunderbolt 4
+	•	Available in Space Black (exclusive to M3 Pro and Max models) and Silver
+
+Release Date: November 2023
+Starting Price: $1,599 (14-inch M3), $2,499 (14-inch M3 Pro), $3,499 (16-inch M3 Max)
+
+iPad Pro (M2)
+Description:
+The most powerful iPad, featuring the M2 chip for faster performance, with ProMotion, Thunderbolt, and advanced Apple Pencil hover functionality.
+
+Key Features:
+	•	11-inch and 12.9-inch Liquid Retina (XDR for 12.9”) displays
+	•	M2 chip
+	•	Up to 2TB storage
+	•	ProMotion (120Hz refresh)
+	•	Apple Pencil hover support
+	•	Thunderbolt 4 port
+
+Release Date: October 2022
+Starting Price: $799 (11-inch), $1,099 (12.9-inch)
+
+Product: Apple Watch Series 9
+Description:
+Apple’s latest smartwatch with a faster S9 chip, on-device Siri processing, brighter display (up to 2,000 nits), and new double-tap gesture control.
+
+Key Features:
+	•	S9 SiP (System in Package)
+	•	Double-tap gesture
+	•	Up to 36-hour battery life (Low Power Mode)
+	•	On-device Siri
+	•	Available in Aluminum and Stainless Steel
+	•	New colors: Pink, Starlight, Midnight, Silver, Product(RED)
+
+Release Date: September 2023
+Starting Price: $399
+
+Product: AirPods Pro (2nd generation, USB-C)
+Description:
+Apple’s flagship earbuds with improved Active Noise Cancellation, Adaptive Transparency, and spatial audio, now featuring a USB-C charging case.
+
+Key Features:
+	•	H2 chip
+	•	Improved Active Noise Cancellation
+	•	Adaptive Transparency
+	•	Personalized spatial audio
+	•	Up to 6 hours listening time (single charge), 30 hours total with case
+	•	USB-C charging case
+
+Release Date: September 2023 (USB-C version)
+Price: $249
+
+
