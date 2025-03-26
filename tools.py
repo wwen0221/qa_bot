@@ -1,9 +1,10 @@
 from langchain.tools import tool
-from llama_index import VectorStoreIndex
+from llama_index.core import load_index_from_storage, StorageContext
 from langchain_tavily import TavilySearch
 
 def load_index(dir_name,k):
-    index = VectorStoreIndex.from_persist_dir(persist_dir=dir_name)
+    storage_context = StorageContext.from_defaults(persist_dir=dir_name)
+    index = load_index_from_storage(storage_context)
     query_engine = index.as_retriever(similarity_top_k=k)
     return query_engine
 
