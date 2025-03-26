@@ -35,7 +35,7 @@ Start uvicorn by running:
 ## You could use postman to call the bot: 
 http://localhost:8000/query?question=how much is iphone 15 pro?
 
-![image](https://github.com/user-attachments/assets/6d09b631-6591-4595-9548-ad05f4c5ecee)
+![image](https://github.com/user-attachments/assets/d0b08aed-f5d3-4bf1-aa49-d4e517ef6eee)
 
 ## If you wish to use python script:
 ```
